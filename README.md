@@ -1,1 +1,0 @@
-# gyroquiz-questions1
